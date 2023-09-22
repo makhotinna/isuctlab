@@ -2,9 +2,9 @@
 hochu 10 ballov
 <html>
   <head>
-    <title>ИГХТУ</title>
+    <h1>ИГХТУ</h1>
   </head>
   <body>
-    <h1>Содержание</h1>
+    <h2>Содержание</h2>
   </body>
 </html>
